@@ -1,4 +1,3 @@
-Hongik University
-SoftWare Engineering Team10 
-Team Code : 27083
-
+SoftWare Engineering
+---
+SE_TEAM_10 Code : 27083
